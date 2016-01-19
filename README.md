@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Install, bundle, and modify your stings calling the gem's methods.
+WordifyAmyeisenmenger.reversify("my string") => "gnirts ym"
 
 ## Development
 
